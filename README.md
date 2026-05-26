@@ -30,7 +30,29 @@ The goal is to support data-driven business decisions through clean metrics, str
 5. **Insights & Recommendations** – Business actions  
 6. **Metric Definitions & Validation** – Metric design and accuracy checks  
 
+---
+
 📄 Dashboard PDF available in `/dashboard`
+
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](dashboard/executive_summary.png)
+
+### Deep Dive Analysis
+![Deep Dive](dashboard/deep_dive.png)
+
+### Profit & Risk Analysis
+![Profit Risk](dashboard/profit_risk.png)
+
+### Pareto Analysis
+![Pareto](dashboard/pareto.png)
+
+### Insights & Recommendations
+![Insights](dashboard/insights.png)
+
+### Metrics & Validation
+![Metrics](dashboard/metric.png)
 
 ---
 
